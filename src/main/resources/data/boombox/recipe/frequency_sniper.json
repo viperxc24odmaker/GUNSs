@@ -1,0 +1,14 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    "minecraft:iron_ingot",
+    "minecraft:iron_ingot",
+    "minecraft:iron_ingot",
+    "minecraft:glass",
+    "minecraft:redstone"
+  ],
+  "result": {
+    "id": "boombox:frequency_sniper",
+    "count": 1
+  }
+}
